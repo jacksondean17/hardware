@@ -1,1 +1,0 @@
-Subtracted the size numbers from the body to improve the visibility when 3d printed
